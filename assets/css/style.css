@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("https://cdn-images-1.medium.com/max/1200/1*_BSX61CxShyqW7oT7Kgc8Q.jpeg") top center;
   background-size: cover;
 }
 
@@ -1074,4 +1074,8 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+.pk
+{
+ font-family: cursive;
 }
